@@ -1,0 +1,33 @@
+newmtl lambert1
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd unwrapped_map1_color.tga
+map_Ks unwrapped_map1_gloss.tga
+map_bump unwrapped_map1_nmap.tga
+newmtl lambert14
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd unwrapped_map1_color.tga
+map_Ks unwrapped_map1_gloss.tga
+map_bump unwrapped_map1_nmap.tga
+newmtl lambert15
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd unwrapped_map1_color.tga
+map_Ks unwrapped_map1_gloss.tga
+map_bump unwrapped_map1_nmap.tga
