@@ -1,0 +1,62 @@
+﻿<IPackThatConfig Language="English" MaxParallelThreads="3">
+  <UVChannel SkipChannel="false">
+    <ImportOptions MoveBounds="false" ContainsBakeOffsets="false" MirroredBakeOffsets="false" NoSelfOverlaps="false" SplitByMesh="false" SplitByMaterial="false" AlignGrid="false" />
+    <SceneOptions Resolution="2048" AspectHeight="1" StretchArea="false" />
+    <PackingOptions MarginClusters="16" MarginBorder="0" StepSize="32" CanRotate="true" AutoSave="true" MaxRunCount="0" DesiredUsedArea="100" />
+    <ClusterDefinitions FileDate="2016-10-08T16:28:40.0402794-07:00">
+      <Cluster ClusterID="0" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="1" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="2" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="3" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="4" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="5" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="6" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="7" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="8" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="9" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="10" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="11" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="12" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="13" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="14" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="15" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="16" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="17" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="18" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="19" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="20" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="21" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="22" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="23" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="24" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="25" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="26" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="27" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="28" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="29" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="30" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="31" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="32" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="33" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="35" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="36" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="37" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="38" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="39" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="40" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="41" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="42" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="43" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="44" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="45" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="46" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="47" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="48" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="49" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="50" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="51" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="52" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+      <Cluster ClusterID="53" CanRotate="true" RotationSteps="90" CanScale="true" MinScaleAware="100" MaxScaleAware="100" PackingGroup="0" CanFindSmallestBounds="false" IgnoreProcessing="false" IsRectangle="false" />
+    </ClusterDefinitions>
+  </UVChannel>
+</IPackThatConfig>
